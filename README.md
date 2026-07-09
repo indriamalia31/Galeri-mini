@@ -55,3 +55,18 @@ Berikut adalah bukti pengujian aplikasi pada perangkat handphone fisik sesuai de
 1. Clone repositori ini ke komputer Anda:
    ```bash
    git clone [https://github.com/username_kamu/nama-repo-kamu.git](https://github.com/username_kamu/nama-repo-kamu.git)
+
+
+---
+
+## Tugas Praktikum Pertemuan 14 - Galeri Mini
+
+Aplikasi ini adalah Galeri Foto Estetik berbasis mobile yang berfungsi untuk menampilkan dan mengelola koleksi foto digital secara lokal. Fitur utamanya meliputi integrasi kamera bawaan perangkat, pengelolaan galeri foto mini, dan sistem perizinan akses media penyimpanan Android.
+
+### Link Unduh Aplikasi (APK)
+Kamu bisa mengunduh file APK aplikasi ini langsung melalui tautan EAS Dashboard berikut:
+👉 [Unduh APK Galeri Mini](https://expo.dev/accounts/indriamalia31/projects/galeri-mini/builds/032300c4-d4bb-4361-87a7-df7f1470dc8a)
+
+### Screenshot Aplikasi
+Berikut adalah tampilan antarmuka dari aplikasi Galeri Mini:
+![Screenshot Aplikasi](./assets/Hasil_foto.jpeg)
